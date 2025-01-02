@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -48,7 +48,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>John Doe</h1>
+        <h1>Adeen Ali Khan</h1>
         <p><strong>Email:</strong> <a href="mailto:john.doe@example.com">john.doe@example.com</a></p>
         <p><strong>Phone:</strong> +1 (123) 456-7890</p>
         <p><strong>GitHub:</strong> <a href="https://github.com/johndoe" target="_blank">github.com/johndoe</a></p>
