@@ -92,7 +92,7 @@
         <div class="section">
             <h2>Education</h2>
             <h3>Bachelor of Science in Software Engineering</h3>
-            <p><em>University of Example - Graduated May 2018</em></p>
+            <p><em>Muhammad Ali Jinnah University - Graduated May 2024</em></p>
         </div>
 
         <div class="section">
