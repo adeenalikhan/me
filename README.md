@@ -91,7 +91,7 @@
 
         <div class="section">
             <h2>Education</h2>
-            <h3>Bachelor of Science in Computer Science</h3>
+            <h3>Bachelor of Science in Software Engineering</h3>
             <p><em>University of Example - Graduated May 2018</em></p>
         </div>
 
