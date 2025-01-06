@@ -50,7 +50,7 @@
     <div class="container">
         <h1>Adeen Ali Khan</h1>
         <p><strong>Email:</strong> <a href="mailto:john.doe@example.com">john.doe@example.com</a></p>
-        <p><strong>Phone:</strong> <a href=" https://github.com/adeenalikhan"> +1 (123) 456-7890 </a> </p>
+        <p><strong>Phone:</strong> <a href=" https://github.com/adeenalikhan" target="_blank"> +1 (123) 456-7890 </a> </p>
         <p><strong>GitHub:</strong> <a href="https://github.com/adeenalikhan" target="_blank">github.com/adeenalikhan</a></p>
 
          <div class="section">
