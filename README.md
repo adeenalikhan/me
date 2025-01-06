@@ -53,7 +53,7 @@
         <p><strong>Phone:</strong> +1 (123) 456-7890</p>
         <p><strong>GitHub:</strong> <a href="https://github.com/johndoe" target="_blank">github.com/johndoe</a></p>
 
-        <div class="section">
+         <div class="section">
             <h2>Summary</h2>
             <p>Experienced full-stack developer with expertise in modern web technologies and a passion for creating efficient and user-friendly web applications.</p>
         </div>
@@ -113,7 +113,7 @@
         </div>
 
         <footer>
-            <p>© 2025 John Doe. All rights reserved.</p>
+            <p>© 2025 Adeen Ali Khan. All rights reserved.</p>
         </footer>
     </div>
 </body>
